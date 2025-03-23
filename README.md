@@ -86,7 +86,7 @@ Create an **IAM user** with the following permissions:
 
 ## 🏗️ Step 2: Create an AWS ECR Repository  
 Create an **AWS Elastic Container Registry (ECR)** repository to store the Docker image.  
-💾 **Save the ECR URI** (e.g., `970547337635.dkr.ecr.ap-south-1.amazonaws.com/medicalchatbot`).
+💾 **Save the ECR URI** (e.g., `027099020732.dkr.ecr.ap-south-1.amazonaws.com/medi_bot`).
 
 ## 🏗️ Step 3: Launch an EC2 Instance  
 1. **Open AWS EC2 Console** → Click **Launch Instance**.  
